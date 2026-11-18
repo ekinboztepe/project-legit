@@ -1,0 +1,17 @@
+{
+  "name": "legit",
+  "hex": "0x3C7EFDBBD7EF7E3C",
+  "rows": [
+    "..####..",
+    ".######.",
+    "######.#",
+    "#.###.##",
+    "##.#.###",
+    "###.####",
+    ".######.",
+    "..####.."
+  ],
+  "color": "#d4a72c",
+  "style": "led",
+  "tagline": "Product authenticity on the Stellar blockchain: scan, verify, trace."
+}

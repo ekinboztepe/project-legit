@@ -1,5 +1,8 @@
-Project Legit: Blockchain-Powered Product Authentication
-&lt;img alt="Project Legit Logo" src="https://i.imgur.com/ieipB6g.png">
+<a href="https://github.com/ekinboztepe"><img src=".github/sigil.svg" width="72" align="right" alt="legit sigil, 0x3C7EFDBBD7EF7E3C"></a>
+
+# Project Legit: Blockchain-Powered Product Authentication
+
+<img alt="Project Legit Logo" src="https://i.imgur.com/ieipB6g.png">
 
 Fighting Counterfeit Products with Blockchain Technology
 
